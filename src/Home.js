@@ -6,10 +6,10 @@ const Home = () => {
         <div className="flex justify-around">
             <div className="pt-60">
                 <p className="text-left font-sans text-slate-300 text-lg">Hello, my name is</p>
-                <h1 className="pt-2 pb-6 text-left underline decoration-[6px] underline-offset-8 font-sans font-bold text-slate-400 text-7xl">Spencer Shaw</h1>
+                <h1 className="pt-2 pb-6 text-left font-sans font-bold text-slate-300 text-7xl">Spencer Shaw</h1>
                 <p className="text-left font-sans text-slate-300 text-md">
                     Undergraduate <span className="">computer science</span> student at <span>Clemson University</span><br/>
-                    and incoming <span className="text-teal-400 font-bold">software engineer</span> at <span className="font-bold">Arista Networks.</span>
+                    and incoming <span className="text-sky-400 font-bold">software engineer</span> at <span className="font-bold">Arista Networks.</span>
                 </p>
             </div>
             <div className="pt-20">
