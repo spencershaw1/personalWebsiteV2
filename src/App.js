@@ -11,11 +11,6 @@ function App() {
         <Navbar />
         <Home />
         <About />
-        <div className="content">
-          <Routes>
-            <Route exact path="/" element={<Home/>} />
-          </Routes>
-        </div>
       </div>
     </Router>
   );
